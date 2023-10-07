@@ -1,5 +1,5 @@
 # Engenharia de Software II
-Disciplina Jogos Digitais - Curso: Gestão da Tecnologia da Informação - IFSUDESTEMG - Campus Muriaé
+Disciplina Engenharia de Software II - Curso: Gestão da Tecnologia da Informação - IFSUDESTEMG - Campus Muriaé
 
 ## Apostilas
 
